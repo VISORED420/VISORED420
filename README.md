@@ -34,7 +34,6 @@ Contribution Graph: <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VISORED420&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true" alt="contribution-graph" width="100%">
 <br/>
 
-
 GitHub Stats:
 <br/>
 
@@ -45,15 +44,16 @@ GitHub Stats:
 
 Contribution History:
 <br/>
+
 <p align="center" style="width:100%;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VISORED420&theme=dark">
 </p>
 
-	
 Socials:
 <br/>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/bhavesh-bhakta/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vaibhav-mathpal-74496b188/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32"></a>&nbsp;&nbsp;&nbsp;
    
   </a>&nbsp;&nbsp;&nbsp;
 		
